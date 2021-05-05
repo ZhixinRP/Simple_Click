@@ -54,7 +54,7 @@
         android:id="@+id/textViewDisplay"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/display_what_the_user_enters"
+        android:text="@string/show"
         android:textSize="24sp" />
 
     <ToggleButton
@@ -62,7 +62,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:checked="true"
-        android:text="ToggleButton"
         android:textOff="@string/disabled"
         android:textOn="@string/enabled" />
 
